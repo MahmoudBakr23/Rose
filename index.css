@@ -44,7 +44,9 @@ header nav .unactive {
   align-items: center;
   flex-direction: column;
   list-style: none;
-  background-color: red;
+  background-image: url(./media/rose.jpg);
+  background-size: cover;
+  background-position: center;
   margin: 0;
   padding: 0;
   z-index: -1;
